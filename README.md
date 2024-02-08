@@ -1,4 +1,4 @@
-# Employee Burntout Prediction using Machine Learning
+# Employee Burnout Prediction using Machine Learning
 
 ## Introduction:
 This project aims to build models using various preprocessing techniques to predict employee burnout. The dataset used was collected by the HR department of a company that is concerned about its employee attrition (burnout) rate.
